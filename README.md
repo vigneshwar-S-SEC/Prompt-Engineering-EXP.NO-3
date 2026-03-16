@@ -44,4 +44,6 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[View The PDF](EX3.pdf)
+
 RESULT: 
